@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+/**
+ * @author Bitzy
+ *
+ */
+module Snake {
+	requires java.desktop;
+}
