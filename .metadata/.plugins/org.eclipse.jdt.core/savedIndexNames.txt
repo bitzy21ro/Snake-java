@@ -1,3 +1,2 @@
 INDEX VERSION 1.131+D:\Dev\Snake\.metadata\.plugins\org.eclipse.jdt.core
-2617301672.index
 1879713920.index
